@@ -165,7 +165,7 @@ h5 {
 }
 
 main {
-  background: url(/assets/img/hero-background.jpg);
+  background: url(../assets/img/hero-background.jpg);
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -361,7 +361,7 @@ p {
 
 .services-container {
   text-align: center;
-  background: url(/assets/img/services-background.png);
+  background: url(../assets/img/services-background.png);
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -518,7 +518,7 @@ p {
 }
 
 .contact-us-container {
-  background: url(/assets/img/contact-us-background.jpg);
+  background: url(../assets/img/contact-us-background.jpg);
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
